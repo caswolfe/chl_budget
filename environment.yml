@@ -1,0 +1,12 @@
+name: chl_budget
+dependencies:
+  - python=3.10.4
+  - pip=21.2.4
+  - pip:
+    - mysqlclient==2.1.0
+    - pandas==1.4.2
+    - pdfminer.six==20220506
+    - sqlalchemy==1.4.32
+    - tabulate==0.8.9
+    - pre-commit==2.19.0
+    - jupyter

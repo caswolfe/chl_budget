@@ -1,0 +1,8 @@
+# folders
+.idea/
+env/
+__pycache__/
+
+# filetype exceptions
+*.csv
+*.ini
